@@ -5,10 +5,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FD&width=435&lines=Mechanical+Engineer;Module+Engineer+@+Intel;)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://www.pcgamesn.com/wp-content/uploads/legacy/Intel_wafer.gif" alt="Wafer" style="margin-right: 10px;">
-  <img src="https://intelcorp.scene7.com/is/image/intelcorp/foundry-ribbonfet-powervia-combo:1920-1080?wid=480&hei=270" alt="RibbonFET + PowerVia">
-</div>
+<img src="https://www.pcgamesn.com/wp-content/uploads/legacy/Intel_wafer.gif" alt="Wafer" style="margin-right: 10px;">
 
 > I’m a Mechanical Engineer with a strong foundation in materials science, thermodynamics, and fluid mechanics, complemented by experience in computational analysis and data analytics. I’ve applied tools like Python, SQL, and JMP to analyze large datasets, monitor complex systems, and support data-driven decision-making in high-tech engineering environments.
 
