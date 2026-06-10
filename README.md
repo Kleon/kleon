@@ -12,10 +12,6 @@
 
 >I'm particularly interested in the intersection of physical engineering, materials behavior, and computational tools, where I can apply both analytical thinking and technical skills to solve complex, real-world problems.
 
-## Current Projects
-
-- **Jet-Impingement Cooled MacBook**: A custom cooling pad designed for my aging MacBook Pro using jet impingement cooling for enhanced thermal performance. Inspired by Apple’s design philosophy and Jony Ive’s focus on simplicity and user experience, the project blends engineering functionality with a sleek, consumer-ready aesthetic. Designed and fabricated end-to-end to resemble a real Apple product.
-
 
 ## Technology stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -33,8 +29,3 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kleon&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kleon&theme=radical)](https://git.io/streak-stats)
